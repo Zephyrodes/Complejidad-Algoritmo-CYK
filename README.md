@@ -10,5 +10,5 @@ El archivo `cyk_algorithm.py` contiene la implementación del algoritmo CYK. La 
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/cyk-algorithm.git
+   git clone https://github.com/Zephyrodes/Complejidad-Algoritmo-CYK.git
    cd cyk-algorithm
